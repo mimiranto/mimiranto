@@ -4,6 +4,10 @@
 
 <br>
 
+<h3 align="left">✨ Info :</h3>
+
+<br>
+
 - 🌱 1ere année en dev
 - 📫 Me Contacter : mirantorakotobe@icloud.com
 
@@ -21,7 +25,7 @@
 
 <br>
 
-<h3 align="left">Social </h3>
+<h3 align="left">Social : </h3>
 <p align="left">
   <a href="https://instagram.com/miranto.r target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
