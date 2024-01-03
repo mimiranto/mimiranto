@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 1ere année en dev
+- 🌱 1ere année 
 - 📫 Me Contacter : mirantorakotobe@icloud.com
 
 
