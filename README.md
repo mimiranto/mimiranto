@@ -25,13 +25,5 @@
 
 <br>
 
-<h3 align="left">Social : </h3>
-<p align="left">
-  <a href="https://instagram.com/miranto.r target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="mimiranto" height="35" width="50" /></a>
-</p>
-
-<br>
 
 
